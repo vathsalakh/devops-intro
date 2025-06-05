@@ -1,4 +1,5 @@
 function sum(a: number, b: number): number {
+  let x = 10;
   return a + b;
 }
 
